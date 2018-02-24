@@ -7,7 +7,7 @@ _WIP Arctic Combat Open Beta (2013) Emulator_
 # Requirements
 
 
-*This is not tested on a MAC. If it works, perfect. If it doesn't, I'm sorry.*
+*This is not tested on a machine running Linux. So If it works, perfect. If it doesn't, I'm sorry.*
 
 • <a href="https://www.microsoft.com/en-US/download/details.aspx?id=48137">.NET Framework 4.6</a>
 
