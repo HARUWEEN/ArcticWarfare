@@ -2,10 +2,9 @@ delxze
 
 me
 
-EDITz (Miguel)
+EDITz
 
 Deniz
 
 nsk
 
-lordsk
