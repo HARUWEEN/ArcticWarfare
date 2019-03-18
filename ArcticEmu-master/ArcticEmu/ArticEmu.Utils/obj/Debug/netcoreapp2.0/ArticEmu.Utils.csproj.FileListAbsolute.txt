@@ -1,0 +1,9 @@
+C:\Users\TEMPTATION\Desktop\Folders\server shit\ac\ArcticWarfare\ArcticEmu-master\ArcticEmu\ArticEmu.Utils\bin\Debug\netcoreapp2.0\ArticEmu.Utils.deps.json
+C:\Users\TEMPTATION\Desktop\Folders\server shit\ac\ArcticWarfare\ArcticEmu-master\ArcticEmu\ArticEmu.Utils\bin\Debug\netcoreapp2.0\ArticEmu.Utils.dll
+C:\Users\TEMPTATION\Desktop\Folders\server shit\ac\ArcticWarfare\ArcticEmu-master\ArcticEmu\ArticEmu.Utils\bin\Debug\netcoreapp2.0\ArticEmu.Utils.pdb
+C:\Users\TEMPTATION\Desktop\Folders\server shit\ac\ArcticWarfare\ArcticEmu-master\ArcticEmu\ArticEmu.Utils\obj\Debug\netcoreapp2.0\ArticEmu.Utils.csprojAssemblyReference.cache
+C:\Users\TEMPTATION\Desktop\Folders\server shit\ac\ArcticWarfare\ArcticEmu-master\ArcticEmu\ArticEmu.Utils\obj\Debug\netcoreapp2.0\ArticEmu.Utils.csproj.CoreCompileInputs.cache
+C:\Users\TEMPTATION\Desktop\Folders\server shit\ac\ArcticWarfare\ArcticEmu-master\ArcticEmu\ArticEmu.Utils\obj\Debug\netcoreapp2.0\ArticEmu.Utils.AssemblyInfoInputs.cache
+C:\Users\TEMPTATION\Desktop\Folders\server shit\ac\ArcticWarfare\ArcticEmu-master\ArcticEmu\ArticEmu.Utils\obj\Debug\netcoreapp2.0\ArticEmu.Utils.AssemblyInfo.cs
+C:\Users\TEMPTATION\Desktop\Folders\server shit\ac\ArcticWarfare\ArcticEmu-master\ArcticEmu\ArticEmu.Utils\obj\Debug\netcoreapp2.0\ArticEmu.Utils.dll
+C:\Users\TEMPTATION\Desktop\Folders\server shit\ac\ArcticWarfare\ArcticEmu-master\ArcticEmu\ArticEmu.Utils\obj\Debug\netcoreapp2.0\ArticEmu.Utils.pdb

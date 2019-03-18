@@ -1,0 +1,16 @@
+C:\Users\TEMPTATION\Desktop\Folders\server shit\ac\ArcticWarfare\ArcticEmu-master\ArcticEmu\ArcticEmu.Channel\bin\Debug\netcoreapp2.0\ArcticEmu.Channel.deps.json
+C:\Users\TEMPTATION\Desktop\Folders\server shit\ac\ArcticWarfare\ArcticEmu-master\ArcticEmu\ArcticEmu.Channel\bin\Debug\netcoreapp2.0\ArcticEmu.Channel.runtimeconfig.json
+C:\Users\TEMPTATION\Desktop\Folders\server shit\ac\ArcticWarfare\ArcticEmu-master\ArcticEmu\ArcticEmu.Channel\bin\Debug\netcoreapp2.0\ArcticEmu.Channel.runtimeconfig.dev.json
+C:\Users\TEMPTATION\Desktop\Folders\server shit\ac\ArcticWarfare\ArcticEmu-master\ArcticEmu\ArcticEmu.Channel\bin\Debug\netcoreapp2.0\ArcticEmu.Channel.dll
+C:\Users\TEMPTATION\Desktop\Folders\server shit\ac\ArcticWarfare\ArcticEmu-master\ArcticEmu\ArcticEmu.Channel\bin\Debug\netcoreapp2.0\ArcticEmu.Channel.pdb
+C:\Users\TEMPTATION\Desktop\Folders\server shit\ac\ArcticWarfare\ArcticEmu-master\ArcticEmu\ArcticEmu.Channel\bin\Debug\netcoreapp2.0\ArctucEmu.Server.dll
+C:\Users\TEMPTATION\Desktop\Folders\server shit\ac\ArcticWarfare\ArcticEmu-master\ArcticEmu\ArcticEmu.Channel\bin\Debug\netcoreapp2.0\ArticEmu.Utils.dll
+C:\Users\TEMPTATION\Desktop\Folders\server shit\ac\ArcticWarfare\ArcticEmu-master\ArcticEmu\ArcticEmu.Channel\bin\Debug\netcoreapp2.0\ArctucEmu.Server.pdb
+C:\Users\TEMPTATION\Desktop\Folders\server shit\ac\ArcticWarfare\ArcticEmu-master\ArcticEmu\ArcticEmu.Channel\bin\Debug\netcoreapp2.0\ArticEmu.Utils.pdb
+C:\Users\TEMPTATION\Desktop\Folders\server shit\ac\ArcticWarfare\ArcticEmu-master\ArcticEmu\ArcticEmu.Channel\obj\Debug\netcoreapp2.0\ArcticEmu.Channel.csprojAssemblyReference.cache
+C:\Users\TEMPTATION\Desktop\Folders\server shit\ac\ArcticWarfare\ArcticEmu-master\ArcticEmu\ArcticEmu.Channel\obj\Debug\netcoreapp2.0\ArcticEmu.Channel.csproj.CoreCompileInputs.cache
+C:\Users\TEMPTATION\Desktop\Folders\server shit\ac\ArcticWarfare\ArcticEmu-master\ArcticEmu\ArcticEmu.Channel\obj\Debug\netcoreapp2.0\ArcticEmu.Channel.AssemblyInfoInputs.cache
+C:\Users\TEMPTATION\Desktop\Folders\server shit\ac\ArcticWarfare\ArcticEmu-master\ArcticEmu\ArcticEmu.Channel\obj\Debug\netcoreapp2.0\ArcticEmu.Channel.AssemblyInfo.cs
+C:\Users\TEMPTATION\Desktop\Folders\server shit\ac\ArcticWarfare\ArcticEmu-master\ArcticEmu\ArcticEmu.Channel\obj\Debug\netcoreapp2.0\ArcticEmu.Channel.csproj.CopyComplete
+C:\Users\TEMPTATION\Desktop\Folders\server shit\ac\ArcticWarfare\ArcticEmu-master\ArcticEmu\ArcticEmu.Channel\obj\Debug\netcoreapp2.0\ArcticEmu.Channel.dll
+C:\Users\TEMPTATION\Desktop\Folders\server shit\ac\ArcticWarfare\ArcticEmu-master\ArcticEmu\ArcticEmu.Channel\obj\Debug\netcoreapp2.0\ArcticEmu.Channel.pdb

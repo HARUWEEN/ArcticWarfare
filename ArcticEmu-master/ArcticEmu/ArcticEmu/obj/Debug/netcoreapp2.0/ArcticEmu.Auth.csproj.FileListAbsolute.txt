@@ -1,0 +1,16 @@
+C:\Users\TEMPTATION\Desktop\Folders\server shit\ac\ArcticWarfare\ArcticEmu-master\ArcticEmu\ArcticEmu\bin\Debug\netcoreapp2.0\ArcticEmu.Auth.deps.json
+C:\Users\TEMPTATION\Desktop\Folders\server shit\ac\ArcticWarfare\ArcticEmu-master\ArcticEmu\ArcticEmu\bin\Debug\netcoreapp2.0\ArcticEmu.Auth.runtimeconfig.json
+C:\Users\TEMPTATION\Desktop\Folders\server shit\ac\ArcticWarfare\ArcticEmu-master\ArcticEmu\ArcticEmu\bin\Debug\netcoreapp2.0\ArcticEmu.Auth.runtimeconfig.dev.json
+C:\Users\TEMPTATION\Desktop\Folders\server shit\ac\ArcticWarfare\ArcticEmu-master\ArcticEmu\ArcticEmu\bin\Debug\netcoreapp2.0\ArcticEmu.Auth.dll
+C:\Users\TEMPTATION\Desktop\Folders\server shit\ac\ArcticWarfare\ArcticEmu-master\ArcticEmu\ArcticEmu\bin\Debug\netcoreapp2.0\ArcticEmu.Auth.pdb
+C:\Users\TEMPTATION\Desktop\Folders\server shit\ac\ArcticWarfare\ArcticEmu-master\ArcticEmu\ArcticEmu\bin\Debug\netcoreapp2.0\ArctucEmu.Server.dll
+C:\Users\TEMPTATION\Desktop\Folders\server shit\ac\ArcticWarfare\ArcticEmu-master\ArcticEmu\ArcticEmu\bin\Debug\netcoreapp2.0\ArticEmu.Utils.dll
+C:\Users\TEMPTATION\Desktop\Folders\server shit\ac\ArcticWarfare\ArcticEmu-master\ArcticEmu\ArcticEmu\bin\Debug\netcoreapp2.0\ArctucEmu.Server.pdb
+C:\Users\TEMPTATION\Desktop\Folders\server shit\ac\ArcticWarfare\ArcticEmu-master\ArcticEmu\ArcticEmu\bin\Debug\netcoreapp2.0\ArticEmu.Utils.pdb
+C:\Users\TEMPTATION\Desktop\Folders\server shit\ac\ArcticWarfare\ArcticEmu-master\ArcticEmu\ArcticEmu\obj\Debug\netcoreapp2.0\ArcticEmu.Auth.csprojAssemblyReference.cache
+C:\Users\TEMPTATION\Desktop\Folders\server shit\ac\ArcticWarfare\ArcticEmu-master\ArcticEmu\ArcticEmu\obj\Debug\netcoreapp2.0\ArcticEmu.Auth.csproj.CoreCompileInputs.cache
+C:\Users\TEMPTATION\Desktop\Folders\server shit\ac\ArcticWarfare\ArcticEmu-master\ArcticEmu\ArcticEmu\obj\Debug\netcoreapp2.0\ArcticEmu.Auth.AssemblyInfoInputs.cache
+C:\Users\TEMPTATION\Desktop\Folders\server shit\ac\ArcticWarfare\ArcticEmu-master\ArcticEmu\ArcticEmu\obj\Debug\netcoreapp2.0\ArcticEmu.Auth.AssemblyInfo.cs
+C:\Users\TEMPTATION\Desktop\Folders\server shit\ac\ArcticWarfare\ArcticEmu-master\ArcticEmu\ArcticEmu\obj\Debug\netcoreapp2.0\ArcticEmu.Auth.csproj.CopyComplete
+C:\Users\TEMPTATION\Desktop\Folders\server shit\ac\ArcticWarfare\ArcticEmu-master\ArcticEmu\ArcticEmu\obj\Debug\netcoreapp2.0\ArcticEmu.Auth.dll
+C:\Users\TEMPTATION\Desktop\Folders\server shit\ac\ArcticWarfare\ArcticEmu-master\ArcticEmu\ArcticEmu\obj\Debug\netcoreapp2.0\ArcticEmu.Auth.pdb

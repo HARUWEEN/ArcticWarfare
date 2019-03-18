@@ -1,0 +1,48 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2018
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArcticEmu.Auth", "ArcticEmu\ArcticEmu.Auth.csproj", "{7B20C433-84F1-4A8E-BA36-6EA079015705}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArticEmu.Utils", "ArticEmu.Utils\ArticEmu.Utils.csproj", "{4ABB9CD6-8665-4CBE-AACF-CC42DBB3CD86}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArctucEmu.Server", "ArctucEmu.Server\ArctucEmu.Server.csproj", "{54EB57C2-7108-4F83-8AB1-17B359BA2847}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArcticEmu.Channel", "ArcticEmu.Channel\ArcticEmu.Channel.csproj", "{D6046991-0D2F-4FCB-A73F-E2571622EA1A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{6989B9D0-58AA-4E54-8975-D7AA096E3100}"
+	ProjectSection(SolutionItems) = preProject
+		Documentation.txt = Documentation.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7B20C433-84F1-4A8E-BA36-6EA079015705}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B20C433-84F1-4A8E-BA36-6EA079015705}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B20C433-84F1-4A8E-BA36-6EA079015705}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B20C433-84F1-4A8E-BA36-6EA079015705}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4ABB9CD6-8665-4CBE-AACF-CC42DBB3CD86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4ABB9CD6-8665-4CBE-AACF-CC42DBB3CD86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4ABB9CD6-8665-4CBE-AACF-CC42DBB3CD86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4ABB9CD6-8665-4CBE-AACF-CC42DBB3CD86}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54EB57C2-7108-4F83-8AB1-17B359BA2847}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54EB57C2-7108-4F83-8AB1-17B359BA2847}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54EB57C2-7108-4F83-8AB1-17B359BA2847}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54EB57C2-7108-4F83-8AB1-17B359BA2847}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6046991-0D2F-4FCB-A73F-E2571622EA1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6046991-0D2F-4FCB-A73F-E2571622EA1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6046991-0D2F-4FCB-A73F-E2571622EA1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6046991-0D2F-4FCB-A73F-E2571622EA1A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {159EAC4E-8DEA-4832-86D5-5968BFD83FB4}
+	EndGlobalSection
+EndGlobal

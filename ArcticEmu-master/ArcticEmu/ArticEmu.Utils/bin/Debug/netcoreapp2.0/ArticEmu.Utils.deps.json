@@ -1,0 +1,38 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.0",
+    "signature": "48ad6597f366f98c1a7d20ac58752234b39742ac"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.0": {
+      "ArticEmu.Utils/1.0.0": {
+        "dependencies": {
+          "NLog": "4.5.9"
+        },
+        "runtime": {
+          "ArticEmu.Utils.dll": {}
+        }
+      },
+      "NLog/4.5.9": {
+        "runtime": {
+          "lib/netstandard2.0/NLog.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ArticEmu.Utils/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NLog/4.5.9": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-csPuByZl2q4O6ZZ8L8BVwu7r03ORIehgZBODmgP5s+3dLarOyW0waM6TN8HwkeLNI5E0mJezp8IB7mXIKhsOqQ==",
+      "path": "nlog/4.5.9",
+      "hashPath": "nlog.4.5.9.nupkg.sha512"
+    }
+  }
+}

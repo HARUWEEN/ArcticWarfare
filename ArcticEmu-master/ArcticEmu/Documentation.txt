@@ -1,0 +1,53 @@
+        CServername = CServername;                                         
+        CServerShortName = CServerShortName;                               
+        ServerIP = ServerIP;                                               
+        serverPort = serverPort;                                            
+        ChannelName = ChannelName;                                                   
+        ChannelNickName = ChannelNickName;                                                       
+        ChannelNum = ChannelNum;                                           
+        chCurUser = chCurUser;                                               
+        ServerGroupName = ServerGroupName;                                              
+        ServerGroupID = ServerGroupID;                                                   
+        ServerDispOrder = ServerDispOrder;                                                   
+        DataPort = DataPort;                                                                
+        OptionCount_byte = OptionCount_byte;                                                     
+        OptionKey_byte = OptionKey_byte;                                                                 
+        OptionValue_byte = OptionValue_byte;                                               
+        OptionCount_int = OptionCount_int;                                                                
+        OptionKey_int = OptionKey_int;                                                                  
+        OptionValue_int = OptionValue_int;                                                       
+        OptionCount_float = OptionCount_float;                                                              
+        OptionKey_float = OptionKey_float;                                                              
+        chMaxUser = chMaxUser;                                       
+        OptionValue_float = OptionValue_float;                                                              
+        IsClanChannel = IsClanChannel;                                                          
+        IsUseDedicateHost = IsUseDedicateHost; <- parameters expected by client
+
+
+array<string> CServername
+array<string> CServerShortName
+array<string> ServerIP
+array<int> serverPort
+array<string> ChannelName
+array<string> ChannelNickName
+array<int> ChannelNum
+array<int> chMaxUser
+array<int> chCurUser
+array<string> ServerGroupName
+array<int> ServerGroupID
+array<int> ServerDispOrder
+array<int> DataPort
+array<byte> OptionCount_byte
+array<byte> OptionKey_byte
+array<byte> OptionValue_byte
+array<byte> OptionCount_int
+array<byte> OptionKey_int
+array<int> OptionValue_int
+array<byte> OptionCount_float
+array<byte> OptionKey_float
+array<float> OptionValue_float
+array<byte> IsClanChannel
+array<byte> IsUseDedicateHost
+out bool ReturnValue <- value types expected from these parameters
+
+202.31.179.65 needs to be redirected to local
