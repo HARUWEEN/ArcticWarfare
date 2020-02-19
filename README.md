@@ -7,7 +7,7 @@ _WIP Arctic Combat Open Beta (2013) Emulator_
 # Requirements
 
 
-*This is not tested on a machine running Linux. So if it works, perfect. If it doesn't, I'm sorry.*
+*Windows ONLY*
 
 • <a href="https://www.microsoft.com/en-US/download/details.aspx?id=48137">.NET Framework 4.6</a>
 
@@ -18,4 +18,4 @@ _WIP Arctic Combat Open Beta (2013) Emulator_
 
 
 
-• <a href="https://discord.gg/7CKEY9M">Discord Server</a>
+• <a href="https://discord.gg/7CKEY9M">Discord</a>
