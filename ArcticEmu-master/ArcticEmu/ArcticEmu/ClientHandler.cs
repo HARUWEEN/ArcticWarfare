@@ -1,4 +1,4 @@
-﻿using ArctucEmu.Server.Net;
+using ArctucEmu.Server.Net;
 using ArctucEmu.Server.Net.PacketTypes;
 using NLog;
 using System;
@@ -9,13 +9,13 @@ using System.Text;
 
 namespace ArcticEmu.Auth
 {
-    internal class ClientHandler : ClientHandlerBase
+	internal class ClientHandler : ClientHandlerBase
 	{
 
 		public ClientHandler(Socket socket) : base(socket)
 		{
 			Processor.PacketProcessed += OnPacketProcessed;
-			
+
 		}
 
 
@@ -23,7 +23,8 @@ namespace ArcticEmu.Auth
 		{
 			var packet = e.ClientPacket.Payload;
 
-			switch (packet.Opcode) {
+			switch (packet.Opcode)
+			{
 				case Opcode.KeepAlive:
 
 					break;
@@ -73,7 +74,7 @@ namespace ArcticEmu.Auth
 						rspPacket.WriteInt(0);
 						//rspPacket.WriteBuffer(buffer1);
 						//rspPacket.WriteBuffer(version);
-						
+
 						Send(rspPacket);
 
 					}
@@ -87,11 +88,11 @@ namespace ArcticEmu.Auth
 					break;
 				case Opcode.ReqLoginHouseTest:
 					{
-						var rspPacket = new ServerPacket(Opcode.ReqLoginHouseTest + 1);
+						var rspPacket = new ServerPacket(Opcode.ReqLoginHouseTest + 1); //general protection fault
 						var d = new DateTime();
 						rspPacket.WriteByte(0);
-						rspPacket.WriteStringUnicode("dekxze");
-						rspPacket.WriteByte(0);	
+						rspPacket.WriteStringUnicode("d");
+						rspPacket.WriteByte(0);
 						rspPacket.WriteInt((int)d.Ticks);
 						rspPacket.WriteInt(0);
 						rspPacket.WriteInt(0);
@@ -99,7 +100,7 @@ namespace ArcticEmu.Auth
 						rspPacket.WriteInt(0);
 						rspPacket.WriteInt(0);
 						rspPacket.WriteByte(1);
-						rspPacket.WriteStringUnicode("Yooooo");
+						rspPacket.WriteStringUnicode("Y");
 						rspPacket.WriteByte(0);
 						rspPacket.WriteStringUnicode(d.ToString());
 						rspPacket.WriteByte(1);
@@ -107,59 +108,82 @@ namespace ArcticEmu.Auth
 						Send(rspPacket);
 					}
 					break;
-				case Opcode.ReqCharInfo:
-					{
-						var rspPacket = new ServerPacket(Opcode.ReqCharInfo + 1);
-						rspPacket.WriteInt(0);
-						rspPacket.WriteStringUnicode("delxze");
-						rspPacket.WriteByte(0);
-						rspPacket.WriteInt(10);
-						rspPacket.WriteInt(100);
-						rspPacket.WriteStringUnicode("DX");
-						rspPacket.WriteByte(0);
-						Send(rspPacket);
-					}
-					break;
-                    /*case Opcode.ReqServerList:
-                        {
-                            var rspPacket = new ServerPacket(Opcode.ReqServerList + 1); //response is 14 
-                            rspPacket.WriteEmpty(140, 0x01);
-                            rspPacket.WriteStringUnicode("delxze"); // servername;
-                            rspPacket.WriteByte(0); 
-                            rspPacket.WriteStringUnicode("dx"); //server short name
-                            rspPacket.WriteByte(0);
-                            rspPacket.WriteStringUnicode("127.0.0.1"); // server ip
-                            rspPacket.WriteByte(0);
-                            rspPacket.WriteInt(55999); // serverport
-                            rspPacket.WriteStringUnicode("ChannelName"); // channelname
-                            rspPacket.WriteByte(0);
-                            rspPacket.WriteStringUnicode("CN"); // channelnickname
-                            rspPacket.WriteByte(0);
-                            rspPacket.WriteInt(1); // channelnum
-                            rspPacket.WriteInt(10); // max user
-                            rspPacket.WriteInt(0); // curr user
-                            rspPacket.WriteStringUnicode("Group name"); // group name
-                            rspPacket.WriteByte(0);
-                            rspPacket.WriteInt(0); // group id
-                            rspPacket.WriteInt(0); // group disp order
-                            rspPacket.WriteInt(0);// dataport
-                            rspPacket.WriteByte(0); // count
-                            rspPacket.WriteByte(0); // key
-                            rspPacket.WriteByte(0); // value
-                            rspPacket.WriteByte(0); // count
-                            rspPacket.WriteByte(0); // Key_int
-                            rspPacket.WriteInt(0); //Value int
-                            rspPacket.WriteByte(0); // count float;
-                            rspPacket.WriteByte(0); // key float;
-                            rspPacket.WriteInt(0); // value float;
-                            rspPacket.WriteByte(0); //clan channel;
-                            rspPacket.WriteByte(0); // is dedi
-                            Send(rspPacket);
-                        }
-                        break;
+				//case Opcode.ReqServerList:
+					//{
+						//var rspPacket = new ServerPacket(Opcode.ReqServerList + 1);
+						//rspPacket.WriteEmpty(140, 0x01);
+						//rspPacket.WriteByte(7);
+						//rspPacket.WriteStringUnicode("delxze"); // servername;
+						//string myString = "delxze";
+						//rspPacket.WriteByte((byte)myString.Length);
+						//rspPacket.WriteStringUnicode(myString);
+					//	Send(rspPacket);
+					//	break;
+				//	}
 
-                */
-            };
+
+
+						//rspPacket.WriteByte(0); 
+						//	rspPacket.WriteStringUnicode("dx"); //server short name
+						//	rspPacket.WriteByte(0);
+						//	rspPacket.WriteStringUnicode("127.0.0.1"); // server ip
+						//	rspPacket.WriteByte(0);
+						//	rspPacket.WriteInt(55999); // serverport
+						//	rspPacket.WriteStringUnicode("ChannelName"); // channelname
+						//	rspPacket.WriteByte(0);
+						//	rspPacket.WriteStringUnicode("CN"); // channelnickname
+						///	rspPacket.WriteByte(0);
+						//	rspPacket.WriteInt(1); // channelnum
+						//		rspPacket.WriteInt(10); // max user
+						//	rspPacket.WriteInt(0); // curr user
+						//		rspPacket.WriteStringUnicode("Group name"); // group name
+						//		rspPacket.WriteByte(0);
+						//		rspPacket.WriteInt(0); // group id
+						//		rspPacket.WriteInt(0); // group disp order
+						//	rspPacket.WriteInt(0);// dataport
+						//		rspPacket.WriteByte(0); // count
+						//		rspPacket.WriteByte(0); // key
+						//		rspPacket.WriteByte(0); // value
+						//		rspPacket.WriteByte(0); // count
+						//		rspPacket.WriteByte(0); // Key_int
+						//		rspPacket.WriteInt(0); //Value int
+						//		rspPacket.WriteByte(0); // count float;
+						//		rspPacket.WriteByte(0); // key float;
+						//		rspPacket.WriteInt(0); // value float;
+						//		rspPacket.WriteByte(0); //clan channel;
+						//		rspPacket.WriteByte(0); // is dedi
+						//	Send(rspPacket);
+						//		break;
+						//}
+						//}
+
+
+						case Opcode.ReqCharInfo:
+						{
+							var rspPacket = new ServerPacket(Opcode.ReqCharInfo + 1);
+							rspPacket.WriteInt(0);
+							rspPacket.WriteStringUnicode("delxze");
+							rspPacket.WriteByte(0);
+							rspPacket.WriteInt(10);
+							rspPacket.WriteInt(100);
+							rspPacket.WriteStringUnicode("DX");
+							rspPacket.WriteByte(0);
+							Send(rspPacket);
+						}
+						break;
+		case Opcode.ReqLogOut: 
+			{
+				var rspPacket = new ServerPacket(Opcode.ReqLogOut + 1);
+				rspPacket.WriteByte(1);
+				rspPacket.WriteByte(1);
+				Send(rspPacket);
+			}
+			break;
+
+
+
+
+			}
 		}
-    }
+	}
 }
