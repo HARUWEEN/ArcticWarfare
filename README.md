@@ -13,7 +13,13 @@ _WIP Arctic Combat Open Beta (2013) Emulator_
 
 • <a href="https://dotnet.microsoft.com/download">Redistributables</a>
 
-• Arctic Combat Client - <a href="https://steamdb.info/app/212370/">Open Beta (*Steam Version*):</a>
+• Arctic Combat Client - <a href="https://steamdb.info/app/212370/">Open Beta (*Steam Version*):</a> 
+
+Please go <a href="https://github.com/xxxyouth/ArcticWarfare/wiki">here</a> for an alternative way to download the game.                     
+
+
+
+
 
 
 
